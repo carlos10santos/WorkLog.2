@@ -23,7 +23,8 @@ O sistema deve permitir que os usuários modifiquem as cores de fundo do program
 * RF3.4 Excluir: O sistema deve possibilitar a exclusão de colunas escolhidas pelos usuários.
 * RF04 - Registro de Data e Hora:
 * O sistema deve exibir a data e a hora de criação de cada tarefa.
-Requisitos não funcionais:
+
+* Requisitos não funcionais:
 
 * RNF01 - Compatibilidade de navegadores
 * O sistema deve permitir a utilização nos navegadores Chrome, Safari, Microsoft Edge, Opera 
