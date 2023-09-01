@@ -1,4 +1,4 @@
-#Objetivo do projeto 
+# Objetivo do projeto 
 
  Elaborar um sistema de organização de tarefas aonde o usuário tenha acesso uma ferramenta intuitiva e prática que o permita separá-las em quadros editáveis para atingir metas e acompanhar seu progresso em direção ao objetivo definido.
 
