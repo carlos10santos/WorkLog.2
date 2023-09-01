@@ -35,9 +35,14 @@ O sistema deve permitir que os usuários modifiquem as cores de fundo do program
   O sistema deverá ter um banco de dados onde serão armazenadas as informações sobre o 
   quadro criado.
 
+* Requisitos Inverso:
+
+* RI01 – Limitar o número de colunas.
+Limitar o número de colunas que o usuário poderá criar.
+* RI02 – Somente uso cor solida no Background bloqueando uso de imagens.
+Impossibilitar o usuário de adicionar imagens ao background, permitindo usar somente
+cores sólidas
 
 
 
 
-
-  jhgfdsa aksjdkej laksndlwk lasjdea açlsdleda elkajasd
