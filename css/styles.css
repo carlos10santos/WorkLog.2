@@ -1,0 +1,29 @@
+/* Estilos gerais */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #eee;
+}
+
+/* Estilos do botão */
+#changeBackgroundBtn {
+    display: block; 
+    margin: 300px auto;
+    padding: 20px 20px;
+    background-color: #ffff1c;
+    color: #000000;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+#changeBackgroundBtn:hover {
+    background-color: #0056b3;
+}
+
+/* Centraliza o botão na página */
+button {
+    display: block;
+    margin: 20px auto;
+}
